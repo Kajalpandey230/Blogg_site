@@ -1,3 +1,5 @@
+Deployed Link : [Link](https://cineverse-blog.onrender.com/)
+Video Link :  [Project Demo](https://www.loom.com/share/b5e64821c64b4daeaf26359410c1e008?sid=79923855-65c7-4f31-b6d0-303534a2dfca)
 🚀 Blog Website – Not Just Another Blog Platform!
 
 Welcome to the ultimate blogging experience powered by the MERN stack (MongoDB, Express.js, React.js, Node.js). This is not just another blog website—it's a powerhouse built for speed, security, and scalability! Whether you're a writer, developer, or tech enthusiast, this platform provides everything you need to publish and manage your blogs effortlessly.
