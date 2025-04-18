@@ -22,7 +22,7 @@ MongoDB (Local or Atlas for cloud deployment)
 
 🔥 1. Clone the Repository
 
-git clone https://github.com/kunaltyagi9/MERN-Stack-Projects.git
+git clone https://github.com/Kajalpandey230/Blogg_site.git
 
 📂 2. Navigate to the Project Directory
 
